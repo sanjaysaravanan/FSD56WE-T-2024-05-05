@@ -100,7 +100,7 @@ Topics:
         Link - anchor to a specific path
         Navigates from one page to the other page
 
-      
+      _reditects is used by netlify
 
 Next Session:
   Complete CRUD operations
